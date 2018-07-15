@@ -78,7 +78,7 @@ class Polyomino:
                                         x] &= not polyomino.form[y][x]
 
 
-def read_puzzle():
+def read_puzzle_2d():
     """
     入力は下記の形式で与えられる
     ```
