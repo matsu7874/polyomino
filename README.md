@@ -1,6 +1,9 @@
 # polyomino
 
-ポリオミノの敷き詰め問題を解く
+ポリオミノの敷き詰め問題を解く。
+
+ブログを書いた。
+[ポリオミノの敷き詰め問題をDancingLinksとKnuth's Algorithm Xを使って解く - matsu7874のブログ](https://matsu7874.hatenablog.com/entry/2018/07/15/200000)
 
 ## ポリオミノの敷き詰め問題とは
 
