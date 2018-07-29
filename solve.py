@@ -42,7 +42,7 @@ def main():
 
     start = time.time()
 
-    variations = [p.generate_variations() for p in polyominos]
+    variations = [polyomino.generate_variations(p) for p in polyominos]
     solve(problem, polyominos, variations)
 
     elapsed = time.time() - start
